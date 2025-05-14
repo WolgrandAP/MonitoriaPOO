@@ -1,5 +1,13 @@
 import java.util.*;
 
+/*
+HashSet não garante nenhuma ordem dos elementos. Ao adicionar itens, a ordem de exibição pode parecer aleatória, pois depende do código de hash de cada objeto.
+
+LinkedHashSet mantém a ordem de inserção. Ou seja, os elementos aparecem na mesma ordem em que foram adicionados ao conjunto.
+
+TreeSet ordena os elementos automaticamente de acordo com a ORDEM NATURAL (como ORDEM ALFABÉTICA para strings ou crescente para números) ou com um Comparator fornecido. A ordem de inserção não é considerada.
+*/
+
 public class Main {
 
     public static void main(String[] args) {
