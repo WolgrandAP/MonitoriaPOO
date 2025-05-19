@@ -23,7 +23,7 @@ public class Pilha {
     }
 
     public void mostrarLista() {
-        System.out.println(lista); //Arrays.toStringnão é necessário para ArrayList, ele já imprime num formato legível
+        System.out.println(lista); //Arrays.toString não é necessário para ArrayList, ele já imprime num formato legível
     }
 
 }
