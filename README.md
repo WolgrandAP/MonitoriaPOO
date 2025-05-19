@@ -1,4 +1,4 @@
-# Monioria POO
+# Monitoria POO
 Segue as resoluções das questões aplicadas pelo professor em sala. Indico que se baseiem nessas resoluções para estudos e qualquer dúvida entrar em contato.
 
 ## Materias POO:
