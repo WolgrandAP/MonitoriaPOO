@@ -1,19 +1,20 @@
 import java.util.ArrayList;
-import java.util.HashMap;
 
 public class FilaNormal {
 
-    private int cont = 0;
-    private Pessoa pessoa;
+    private int cont = 1;
     private ArrayList<Pessoa> fila = new ArrayList<>();
 
-    public void adicioarNaFila(Pessoa pessoa) {
+    public void adicionarFila(Pessoa pessoa) {
         fila.add(pessoa);
     }
 
-    public String mostrarFila() {
+    public void mostrarFila() {
 
-        for () {}
+        for (Pessoa pessoa : fila) {
+            System.out.println(cont + " - " + pessoa.getNome() + " - " + pessoa.getIdade() + " anos");
+            cont ++;
+        }
     }
 
 }

@@ -2,6 +2,12 @@ public class Pessoa {
 
     private String nome;
     private int idade;
+    private boolean prioridade;
+
+    public Pessoa(String nome, int idade) {
+        this.nome = nome;
+        this.idade = idade;
+    }
 
     public String getNome() {
         return nome;
@@ -17,5 +23,15 @@ public class Pessoa {
         this.idade = idade;
     }
 
+    public boolean isPrioridade() {
+        return prioridade;
+    }
+    public void setPrioridade(boolean prioridade) {
+        this.prioridade = prioridade;
+    }
+
+    public void tornarPrioridade() {
+        this.setPrioridade(true);
+    }
 
 }
