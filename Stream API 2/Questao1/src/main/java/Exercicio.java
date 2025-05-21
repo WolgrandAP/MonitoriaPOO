@@ -66,7 +66,10 @@ public class Exercicio {
         System.out.println();
 
         // 10. Imprimir somatório de gols de todos os jogadores de um determinado time
+        totalGolsTime(jogadores, "Internacional");
 
+        // 11.Ordenar jogadores por número de gols
+        ordenarPorGols(jogadores);
 
     }
 
@@ -125,9 +128,13 @@ public class Exercicio {
         System.out.printf("O artilheiro foi %s com %d gols.\n", j.getNome(), j.getGolsMarcados());
     }
 
-    public static void golsJogadoresDeUmTime(List<Jogador> jogadores, String time) {
-        jogadores.stream().filter(j -> j.getTime().equals(time)).collect(Collectors.toList())
-                .forEach(System.out::println("Time: " + time));
+    public static void totalGolsTime(List<Jogador> jogadores, String time) {
+        int gols = jogadores.stream().filter(j -> j.getTime().equals(time)).mapToInt(j -> j.getGolsMarcados()).sum();
+        System.out.printf("O time %s tem no total %d gols.\n", time, gols);
+    }
+
+    public static void ordenarPorGols(List<Jogador> jogadores) {
+        jogadores.stream().sorted(Comparator.comparingInt(Jogador::getGolsMarcados)).forEach(System.out::println);
     }
 
 }
