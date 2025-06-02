@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.verificacaoPalindromo</groupId>
-    <artifactId>Quuestao2</artifactId>
+    <artifactId>Questao2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
