@@ -1,0 +1,2 @@
+O tratador da questão tem a capacidade de capturar para as checked exceptions: o IOException, SQLException (são os principais); e para os unchecked exceptions: herdam de RuntimeException e entre os pricipais está o NullPointerException, IndexOutOfBoundsException.
+Entre os pontos negativos para se usar dessa maneira se deve por ser algo genérico que pode ocultar exceções importantes que deveriam ser tratadas de formas individuais.
