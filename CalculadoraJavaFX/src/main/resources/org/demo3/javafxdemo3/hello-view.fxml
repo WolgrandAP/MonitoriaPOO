@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="186.0" prefWidth="142.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.demo3.javafxdemo3.HelloController">
+  <padding>
+    <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+  </padding>
+   <TextField fx:id="resultado" alignment="CENTER_RIGHT" editable="false" />
+   <GridPane>
+     <columnConstraints>
+       <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="25" />
+       <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="25" />
+         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="25" />
+         <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" percentWidth="25" />
+     </columnConstraints>
+     <rowConstraints>
+         <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+         <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+       <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+       <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+       <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+     </rowConstraints>
+      <children>
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="AC" onAction="#btnACClicked" GridPane.columnSpan="2" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="x" onAction="#btnMultiplicacaoClicked" GridPane.columnIndex="3" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="÷" onAction="#btnDivisaoClicked" GridPane.columnIndex="2" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="7" onAction="#btn7Clicked" GridPane.rowIndex="1" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="8" onAction="#btn8Clicked" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="9" onAction="#btn9Clicked" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="-" onAction="#btnSubtracaoClicked" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="4" onAction="#btn4Clicked" GridPane.rowIndex="2" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="5" onAction="#btn5Clicked" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="6" onAction="#btn6Clicked" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="+" onAction="#btnSomaClicked" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" onAction="#btn1Clicked" text="1" GridPane.rowIndex="3" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" onAction="#btn2Clicked" text="2" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" onAction="#btn3Clicked" text="3" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="0" onAction="#btn0Clicked" GridPane.columnSpan="2" GridPane.rowIndex="4" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="." onAction="#btnPointClicked"  GridPane.columnIndex="2" GridPane.rowIndex="4" />
+         <Button maxHeight="Infinity" maxWidth="Infinity" mnemonicParsing="false" text="=" onAction="#btnEqualsClicked" GridPane.columnIndex="3" GridPane.rowIndex="3" GridPane.rowSpan="2" />
+      </children>
+   </GridPane>
+</VBox>
