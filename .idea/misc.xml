@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/2025.1/Coleções/Pilha/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/VerificacaoPalindromo/VerificacaoPalindromo/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/ContagemPalavrasUnicas/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/LinkedHashSetdeStrings/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/OrdenacaoNumerosUnicos/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/PriorityQueuedeTarefas/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/ImplementacaoDicionario/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/LinkedHashMapdeContatos/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/RemocaoElementosDuplicados/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/ContagemFrequenciaCaracteres/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/HashSetdeObjetosPersonalizados/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções/OrdenacaodeObjetosPersonalizadoscomComparator/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Exceções/Questao1/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Exceções/Questao3/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções 2/Questao1/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções 2/Questao2/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções 2/Questao3/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Coleções 2/Questao4/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/Mapa/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/Filtro/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/Reducao/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/Mapa_Filtro/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/FiltroMapacomStrings/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/MapacomObjetoPersonalizado/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/FiltrocomObjetoPersonalizado/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/ReducaoComObjetoPersonalizado/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/MapReducecomObjetoPersonalizado/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API/ReducaocomObjetoPersonalizadoQ9/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Stream API 2/Questao1/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/CalculadoraJavaFX/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Lista de Exercícios - Tratamento de exceções/Questao1/pom.xml" />
+        <option value="$PROJECT_DIR$/2025.1/Lista de Exercícios - Tratamento de exceções/Questao2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

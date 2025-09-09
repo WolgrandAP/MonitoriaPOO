@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Mapa" />
+        <module name="Questao1 (1)" />
+        <module name="LinkedHashMapdeContatos" />
+        <module name="Filtro" />
+        <module name="ContagemPalavrasUnicas" />
+        <module name="OrdenacaodeObjetosPersonalizadoscomComparator" />
+        <module name="ReducaocomObjetoPersonalizadoQ9" />
+        <module name="RemocaoElementosDuplicados" />
+        <module name="Questao2 (1)" />
+        <module name="ContagemFrequenciaCaracteres" />
+        <module name="Questao4" />
+        <module name="ReducaoComObjetoPersonalizado" />
+        <module name="VerificacaoPalindromo" />
+        <module name="Questao3 (1)" />
+        <module name="Questao1" />
+        <module name="Questao2" />
+        <module name="Questao3" />
+        <module name="FiltrocomObjetoPersonalizado" />
+        <module name="Questao1 (2)" />
+        <module name="HashSetdeObjetosPersonalizados" />
+        <module name="JavaFXDemo3" />
+        <module name="OrdenacaoNumerosUnicos" />
+        <module name="MapReducecomObjetoPersonalizado" />
+        <module name="ImplementacaoDicionario" />
+        <module name="Pilha" />
+        <module name="FiltroMapacomStrings" />
+        <module name="MapacomObjetoPersonalizado" />
+        <module name="LinkedHashSetdeStrings" />
+        <module name="PriorityQueuedeTarefas" />
+        <module name="Reducao" />
+        <module name="Questao1 (3)" />
+        <module name="Mapa_Filtro" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

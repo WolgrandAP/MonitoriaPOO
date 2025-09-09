@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/2025.1/CalculadoraJavaFX/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/CalculadoraJavaFX/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções 2/Questao1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções 2/Questao1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções 2/Questao2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções 2/Questao2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções 2/Questao3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções 2/Questao3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções 2/Questao4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções 2/Questao4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/ContagemFrequenciaCaracteres/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/ContagemFrequenciaCaracteres/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/ContagemPalavrasUnicas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/ContagemPalavrasUnicas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/HashSetdeObjetosPersonalizados/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/HashSetdeObjetosPersonalizados/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/ImplementacaoDicionario/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/ImplementacaoDicionario/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/LinkedHashMapdeContatos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/LinkedHashMapdeContatos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/LinkedHashSetdeStrings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/LinkedHashSetdeStrings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/OrdenacaoNumerosUnicos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/OrdenacaoNumerosUnicos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/OrdenacaodeObjetosPersonalizadoscomComparator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/OrdenacaodeObjetosPersonalizadoscomComparator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/Pilha/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/Pilha/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/PriorityQueuedeTarefas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/PriorityQueuedeTarefas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/RemocaoElementosDuplicados/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/RemocaoElementosDuplicados/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/VerificacaoPalindromo/VerificacaoPalindromo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Coleções/VerificacaoPalindromo/VerificacaoPalindromo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Exceções/Questao1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Exceções/Questao1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Exceções/Questao3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Exceções/Questao3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Lista de Exercícios - Tratamento de exceções/Questao1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Lista de Exercícios - Tratamento de exceções/Questao1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Lista de Exercícios - Tratamento de exceções/Questao2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Lista de Exercícios - Tratamento de exceções/Questao2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API 2/Questao1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API 2/Questao1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/Filtro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/Filtro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/FiltroMapacomStrings/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/FiltroMapacomStrings/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/FiltrocomObjetoPersonalizado/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/FiltrocomObjetoPersonalizado/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/MapReducecomObjetoPersonalizado/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/MapReducecomObjetoPersonalizado/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/Mapa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/Mapa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/Mapa_Filtro/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/Mapa_Filtro/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/MapacomObjetoPersonalizado/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/MapacomObjetoPersonalizado/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/Reducao/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/Reducao/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/ReducaoComObjetoPersonalizado/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/ReducaoComObjetoPersonalizado/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/ReducaocomObjetoPersonalizadoQ9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2025.1/Stream API/ReducaocomObjetoPersonalizadoQ9/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
