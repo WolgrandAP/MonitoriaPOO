@@ -6,7 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Questao12" />
+        <module name="Questao11" />
+        <module name="Questao8" />
+        <module name="Questao9" />
+        <module name="Questao4" />
+        <module name="Questao5" />
+        <module name="Questao6" />
+        <module name="Questao7" />
         <module name="Questao0" />
+        <module name="Questao10" />
+        <module name="Questao1" />
+        <module name="Questao2" />
+        <module name="Questao3" />
       </profile>
     </annotationProcessing>
   </component>
