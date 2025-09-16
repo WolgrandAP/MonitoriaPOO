@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Questao14" />
+        <module name="Questao13" />
         <module name="Questao12" />
         <module name="Questao11" />
         <module name="Questao8" />
