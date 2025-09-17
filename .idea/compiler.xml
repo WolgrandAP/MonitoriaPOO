@@ -20,6 +20,7 @@
         <module name="ReducaoComObjetoPersonalizado" />
         <module name="VerificacaoPalindromo" />
         <module name="Questao3 (1)" />
+        <module name="Questao1 (4)" />
         <module name="Questao1" />
         <module name="Questao2" />
         <module name="Questao3" />
@@ -30,6 +31,7 @@
         <module name="OrdenacaoNumerosUnicos" />
         <module name="MapReducecomObjetoPersonalizado" />
         <module name="ImplementacaoDicionario" />
+        <module name="Questao2 (2)" />
         <module name="Pilha" />
         <module name="FiltroMapacomStrings" />
         <module name="MapacomObjetoPersonalizado" />
@@ -37,6 +39,7 @@
         <module name="PriorityQueuedeTarefas" />
         <module name="Reducao" />
         <module name="Questao1 (3)" />
+        <module name="Questao3 (2)" />
         <module name="Mapa_Filtro" />
       </profile>
     </annotationProcessing>
