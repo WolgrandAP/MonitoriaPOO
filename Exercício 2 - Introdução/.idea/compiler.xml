@@ -10,10 +10,14 @@
         <module name="Exercicio6" />
         <module name="Exercicio3" />
         <module name="Exercicio4" />
-        <module name="Exercico7" />
+        <module name="Exercicio8" />
         <module name="Exercicio1" />
         <module name="Exercicio2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Exercicio7" target="21" />
+      <module name="Exercico7" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
