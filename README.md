@@ -19,3 +19,5 @@ Segue as resoluções das questões aplicadas pelo professor em sala. Indico que
 [Exercício 1 - Básico](https://antoniodias.notion.site/Primeiros-passos-269f7a87729180308b5fdd5a2620ce97)
 
 [Exercício 2 - Introdução](https://antoniojnr.github.io/content/poo/superior/0-complementares.html)
+
+[Exercício 3 - Tipos e classes wraper](https://antoniojnr.github.io/content/poo/superior/ex-tipos.html)
