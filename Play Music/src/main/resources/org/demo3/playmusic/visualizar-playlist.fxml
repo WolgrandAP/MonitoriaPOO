@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="332.0" prefWidth="453.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.demo3.playmusic.">
+   <children>
+      <Label alignment="CENTER" prefHeight="33.0" prefWidth="453.0" text="(Nome da Playlist aqui)" />
+      <ListView prefHeight="208.0" prefWidth="423.0">
+         <VBox.margin>
+            <Insets left="15.0" right="15.0" top="15.0" />
+         </VBox.margin>
+      </ListView>
+      <HBox alignment="CENTER_RIGHT" prefHeight="76.0" prefWidth="453.0" spacing="10.0">
+         <children>
+            <Label prefHeight="17.0" prefWidth="144.0" text="Quantidade de Músicas:" />
+            <Label prefHeight="17.0" prefWidth="56.0" text="N Músic" textFill="#6de9ff" />
+            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="121.0" text="Adicionar Música" />
+            <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="115.0" text="Remover Música" />
+         </children>
+      </HBox>
+   </children>
+</VBox>
