@@ -4,7 +4,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="113.0" prefWidth="293.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.demo3.playmusic.">
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="113.0" prefWidth="293.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.demo3.playmusic.controller.AdicionarPlaylistController">
    <children>
       <Label alignment="CENTER" prefHeight="28.0" prefWidth="293.0" text="Adicionar Playlist" />
       <GridPane prefHeight="42.0" prefWidth="293.0">
@@ -17,7 +17,7 @@
         </rowConstraints>
          <children>
             <Label alignment="CENTER" prefHeight="33.0" prefWidth="146.0" text="Título :" />
-            <TextField prefHeight="25.0" prefWidth="172.0" GridPane.columnIndex="1">
+            <TextField fx:id="fieldTitulo" prefHeight="25.0" prefWidth="172.0" GridPane.columnIndex="1">
                <GridPane.margin>
                   <Insets right="10.0" />
                </GridPane.margin>
@@ -26,11 +26,11 @@
       </GridPane>
       <HBox alignment="CENTER" prefHeight="42.0" prefWidth="293.0" spacing="10.0">
          <children>
-            <Button mnemonicParsing="false" text="Salvar">
+            <Button fx:id="btnSalvar" mnemonicParsing="false" text="Salvar">
                <HBox.margin>
                   <Insets />
                </HBox.margin></Button>
-            <Button mnemonicParsing="false" text="Cancelar" />
+            <Button fx:id="btnCancelar" mnemonicParsing="false" text="Cancelar" />
          </children>
          <VBox.margin>
             <Insets />
